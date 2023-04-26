@@ -4,6 +4,7 @@ This is where I will store my coding projects and files that I have created
 *I am new to this so it wont be great but progress is progress.*
 
 *Some of this stuff may be redundant or already implemented elsewhere but this way improves my skills*
+
 #TextPy
 In the Text Analysis with Python directory there is a Python 3 script that 
 takes in text files and has a multitude of feautures/functions I will be adding 
